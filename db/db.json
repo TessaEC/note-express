@@ -1,6 +1,22 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Pick up dry cleaning",
+        "text": "Sample text"
+    },
+    {
+        "title": "Schedule dentist appointment",
+        "text": "Sample text"
+    },
+    {
+        "title": "Get nails done",
+        "text": "Sample text"
+    },
+    {
+        "title": "Make grocery list",
+        "text": "Sample text"
+    },
+    {
+        "title": "Give dog a bath",
+        "text": "Sample text"
     }
 ]
