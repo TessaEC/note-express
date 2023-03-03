@@ -36,4 +36,4 @@ N/A
 https://github.com/TessaEC/note-express
 
 ### Heroku Deployed URL
-https://dashboard.heroku.com/apps/note-express-challenge10
+https://note-express-challenge10.herokuapp.com/
