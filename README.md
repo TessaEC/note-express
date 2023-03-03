@@ -32,4 +32,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## License
 N/A
 
-## Visuals
+### GitHub URL
+https://github.com/TessaEC/note-express
+
+### Heroku Deployed URL
+https://dashboard.heroku.com/apps/note-express-challenge10
